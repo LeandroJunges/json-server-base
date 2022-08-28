@@ -6,6 +6,20 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "bestweather@mail.com.br",
+      "password": "$2a$10$5Ao0rdj1pjOvClGcs38Jn.rwX6LPlw/1Bfl.ZZU9g/bbYQrH10xVe",
+      "name": "BestWeather",
+      "id": 2
+    }
+  ],
+  "state": [
+    {
+      "initials": "SP",
+      "Name": "São Paulo",
+      "userId": 2,
+      "id": 1
     }
   ]
 }
